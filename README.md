@@ -3,12 +3,16 @@ The "ML Shoes Price Prediction Project" aims to predict the prices of shoes usin
 
 ## Project Steps:
 1. Web Scraping:
+
 Objective: Gather data on shoes from relevant websites.
+
 Tools: Python, Selenium/Beautiful Soup for web scraping.
+
 Tasks:
-Identify target websites with shoe data.
-Extract information such as brand, product description, price, and any other relevant features.
-Store the scraped data in a structured format.
+
+- Identify target websites with shoe data.
+- Extract information such as brand, product description, price, and any other relevant features.
+- Store the scraped data in a structured format.
 2. Database Configuration:
 Objective: Set up a database for efficient data storage and retrieval.
 Tools: SQLite, MySQL, or another relational database.
