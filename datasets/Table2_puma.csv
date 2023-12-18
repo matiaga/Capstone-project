@@ -1,11 +1,629 @@
 ,product_code,count_of_sizes,colors
 0,399332_01,12,"['PUMA Black-Warm White-Gum', 'Speed Blue-Lime Pow-Gum', 'Lavender Alert-Burnt Red-Gum']"
-1,399332_02,12,"['PUMA Black-Warm White-Gum', 'Speed Blue-Lime Pow-Gum', 'Lavender Alert-Burnt Red-Gum']"
-2,399332_03,12,"['PUMA Black-Warm White-Gum', 'Speed Blue-Lime Pow-Gum', 'Lavender Alert-Burnt Red-Gum']"
+1,399332_03,12,"['PUMA Black-Warm White-Gum', 'Speed Blue-Lime Pow-Gum', 'Lavender Alert-Burnt Red-Gum']"
+2,399332_02,12,"['PUMA Black-Warm White-Gum', 'Speed Blue-Lime Pow-Gum', 'Lavender Alert-Burnt Red-Gum']"
 3,398949_01,12,"['Malachite-Puma Team Gold-PUMA White', 'Dark Jasper-Puma Team Gold-PUMA White']"
 4,398949_02,12,"['Malachite-Puma Team Gold-PUMA White', 'Dark Jasper-Puma Team Gold-PUMA White']"
-5,,0,[]
-6,397112_02,19,"['Malachite-Warm White', 'PUMA Black-PUMA Black']"
-7,397112_01,19,"['Malachite-Warm White', 'PUMA Black-PUMA Black']"
-8,381983_01,11,"['Puma White-Puma Black', 'Puma White-Peyote']"
+5,397113_01,12,['PUMA White-Malachite-Puma Team Gold']
+6,397112_01,19,"['Malachite-Warm White', 'PUMA Black-PUMA Black']"
+7,397112_02,19,"['Malachite-Warm White', 'PUMA Black-PUMA Black']"
+8,381410_01,12,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Marshmallow-Puma White', 'Lily Pad-Lily Pad', 'Icy Blue-PUMA White', 'Granola-Warm White']"
 9,369155_04,12,"['Puma White-Puma White', 'Puma White-Puma Black']"
+10,381983_01,11,"['Puma White-Puma Black', 'Puma White-Peyote']"
+11,369155_01,12,"['Puma White-Puma White', 'Puma White-Puma Black']"
+12,373438_01,12,"['Puma White-Puma White', 'Puma Black-Puma White']"
+13,384209_01,12,"['Puma White', 'Puma Black']"
+14,381410_02,12,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Marshmallow-Puma White', 'Lily Pad-Lily Pad', 'Icy Blue-PUMA White', 'Granola-Warm White']"
+15,366408_01,17,"['Puma White-Puma Team Gold', 'Puma Black-Puma Team Gold']"
+16,397089_01,12,['PUMA White-Gold-Warm White']
+17,381410_10,12,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Marshmallow-Puma White', 'Lily Pad-Lily Pad', 'Icy Blue-PUMA White', 'Granola-Warm White']"
+18,373438_02,12,"['Puma White-Puma White', 'Puma Black-Puma White']"
+19,392730_01,12,"['PUMA White', 'PUMA Black', 'PUMA White-PUMA Black', 'PUMA Black-PUMA White']"
+20,399262_02,12,"['Club Navy', 'Dark Myrtle']"
+21,380784_01,12,['Puma Black-Puma White']
+22,392710_01,9,['Whisper White-ARUBA BLUE']
+23,393772_05,12,"['Frosty Pink-Warm White', 'Frosty Pink-Ravish-Pearl Pink']"
+24,396352_02,12,['PUMA Black']
+25,366408_02,18,"['Puma White-Puma Team Gold', 'Puma Black-Puma Team Gold']"
+26,381410_90,12,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Marshmallow-Puma White', 'Lily Pad-Lily Pad', 'Icy Blue-PUMA White', 'Granola-Warm White']"
+27,393772_02,12,"['Frosty Pink-Warm White', 'Frosty Pink-Ravish-Pearl Pink']"
+28,379140_01,10,['PUMA White-Feather Gray']
+29,381983_02,10,"['Puma White-Puma Black', 'Puma White-Peyote']"
+30,399262_01,12,"['Club Navy', 'Dark Myrtle']"
+31,392886_01,12,['Iridescent-PUMA White']
+32,397090_01,12,['Frosted Ivory-Warm White-Cashew']
+33,396704_02,19,['Sedate Gray-PUMA White']
+34,385248_01,12,['Pristine-Marshmallow']
+35,396172_01,12,['Puma White']
+36,393065_01,12,"['Warm White', 'PUMA Black']"
+37,393802_09,12,"['PUMA White-PUMA Black', 'PUMA White-PUMA White-PUMA Gold']"
+38,377540_04,11,"['Icy Blue-Ultra Blue', 'Ash Gray-PUMA White-Yellow Burst-Vivid Violet']"
+39,392730_08,12,"['PUMA White', 'PUMA Black', 'PUMA White-PUMA Black', 'PUMA Black-PUMA White']"
+40,397643_02,12,"['Fresh Mint-Fast Pink', 'Cobalt Glaze-PUMA White']"
+41,394786_01,12,"['PUMA Black', 'Chocolate']"
+42,392086_01,15,['PUMA White-Pristine']
+43,383112_04,12,['Puma White-Puma Black-Gray Violet']
+44,378456_01,12,"['PUMA Black-PUMA Silver', 'PUMA Black-Peach Smoothie-Speed Green', 'Fire Orchid-Ultra Blue']"
+45,394755_02,12,['PUMA White']
+46,389853_06,12,"['PUMA White-Marshmallow', 'PUMA White-Warm White-Dark Jasper']"
+47,392730_02,12,"['PUMA White', 'PUMA Black', 'PUMA White-PUMA Black', 'PUMA Black-PUMA White']"
+48,389454_04,5,"['PUMA Black', 'Frosted Ivory']"
+49,371008_27,12,['Dark Jasper-Warm White']
+50,376262_21,12,['Fire Orchid-Ultra Blue']
+51,377746_04,12,"['PUMA Black-Cool Dark Gray-PUMA Silver', 'Cool Dark Gray-Koral Ice', 'Eucalyptus-Alpine Snow-PUMA Black', 'Alpine Snow-Ultra Blue-Yellow Burst', 'Active Red-Ocean Tropic-Lime Pow: out of stock']"
+52,378318_02,20,['Light Aqua-PUMA White']
+53,309720_04,12,['Sugared Almond-PUMA Gold']
+54,392730_04,12,"['PUMA White', 'PUMA Black', 'PUMA White-PUMA Black', 'PUMA Black-PUMA White']"
+55,379886_01,21,['PUMA Navy']
+56,377758_09,12,"['PUMA Black-PUMA White', 'Fire Orchid-PUMA Black-PUMA Silver']"
+57,376855_22,12,"['PUMA Black-Fire Orchid', 'Fire Orchid-PUMA Black-Icy Blue', 'Poison Pink-PUMA Black-PUMA White']"
+58,392085_01,15,['PUMA White-PUMA White']
+59,393301_02,19,['Cayenne Pepper-Astro Red']
+60,393065_02,12,"['Warm White', 'PUMA Black']"
+61,390932_02,18,"['PUMA White-PUMA Black', 'PUMA Black-PUMA White', 'Warm White-Yellow Burst-Parakeet Green']"
+62,393802_01,12,"['PUMA White-PUMA Black', 'PUMA White-PUMA White-PUMA Gold']"
+63,377758_01,12,"['PUMA Black-PUMA White', 'Fire Orchid-PUMA Black-PUMA Silver']"
+64,107565_03,13,"['Silver Sky-PUMA Black-Fire Orchid', 'Alpine Snow-Asphalt-Yellow Blaze']"
+65,397647_03,12,"['PUMA White-Vapor Gray-Gum', 'PUMA Black-Feather Gray-Gum']"
+66,376855_17,12,"['PUMA Black-Fire Orchid', 'Fire Orchid-PUMA Black-Icy Blue', 'Poison Pink-PUMA Black-PUMA White']"
+67,384209_02,12,"['Puma White', 'Puma Black']"
+68,107507_03,13,"['PUMA White-PUMA Black-Fire Orchid', 'Ultra Blue-PUMA White-Pro Green']"
+69,389454_05,5,"['PUMA Black', 'Frosted Ivory']"
+70,393449_02,19,['Chocolate Chip-Flaxen']
+71,396463_07,13,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+72,378482_02,12,"['PUMA Black-Koral Ice-Speed Green-PUMA Silver', 'Koral Ice-Speed Green']"
+73,393078_01,19,['Sedate Gray-Pinktastic']
+74,377746_05,12,"['PUMA Black-Cool Dark Gray-PUMA Silver', 'Cool Dark Gray-Koral Ice', 'Eucalyptus-Alpine Snow-PUMA Black', 'Alpine Snow-Ultra Blue-Yellow Burst', 'Active Red-Ocean Tropic-Lime Pow: out of stock']"
+75,309758_01,12,"['PUMA White-Cherry Tomato', 'Cherry Tomato-PUMA Black']"
+76,395461_11,12,['PUMA White-Frosty Pink']
+77,378823_01,12,['PUMA Black-PUMA White-Dark Coal']
+78,393326_01,17,['Persian Blue-Orange Brick']
+79,390932_01,12,"['PUMA White-PUMA Black', 'PUMA Black-PUMA White', 'Warm White-Yellow Burst-Parakeet Green']"
+80,307826_02,19,"['PUMA Black-Warm White', 'Rosso Corsa-Warm White']"
+81,307826_01,19,"['PUMA Black-Warm White', 'Rosso Corsa-Warm White']"
+82,378688_02,12,"['PUMA Black-PUMA White', 'PUMA White-Speed Green', 'PUMA Black-Bold Blue-Future Pink']"
+83,378906_01,14,['PUMA Black-Koral Ice-Speed Green']
+84,393314_02,16,['Sedate Gray-Sedate Gray']
+85,378482_01,12,"['PUMA Black-Koral Ice-Speed Green-PUMA Silver', 'Koral Ice-Speed Green']"
+86,378456_03,12,"['PUMA Black-PUMA Silver', 'PUMA Black-Peach Smoothie-Speed Green', 'Fire Orchid-Ultra Blue']"
+87,309758_02,12,"['PUMA White-Cherry Tomato', 'Cherry Tomato-PUMA Black']"
+88,394508_03,12,['PUMA Black-Intense Lavender']
+89,396449_01,9,['Pristine-Prairie Tan']
+90,378688_03,12,"['PUMA Black-PUMA White', 'PUMA White-Speed Green', 'PUMA Black-Bold Blue-Future Pink']"
+91,394749_01,12,['PUMA White-Warm White']
+92,396463_01,0,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+93,394786_04,12,"['PUMA Black', 'Chocolate']"
+94,378437_02,11,"['Vibrant Red', 'Dusty Tan']"
+95,378437_01,12,"['Vibrant Red', 'Dusty Tan']"
+96,396463_09,0,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+97,393764_03,12,"['Frosted Ivory-PUMA White', 'PUMA White-Icy Blue-Warm White']"
+98,377540_05,11,"['Icy Blue-Ultra Blue', 'Ash Gray-PUMA White-Yellow Burst-Vivid Violet']"
+99,393764_02,12,"['Frosted Ivory-PUMA White', 'PUMA White-Icy Blue-Warm White']"
+100,378454_01,12,['PUMA Black-Strawberry Burst-Yellow Blaze']
+101,376169_10,12,"['Puma Black-Metallic Gold', 'PUMA White-Fire Orchid-PUMA Black', 'PUMA Black-Icy Blue-Speed Green']"
+102,377746_01,12,"['PUMA Black-Cool Dark Gray-PUMA Silver', 'Cool Dark Gray-Koral Ice', 'Eucalyptus-Alpine Snow-PUMA Black', 'Alpine Snow-Ultra Blue-Yellow Burst', 'Active Red-Ocean Tropic-Lime Pow: out of stock']"
+103,378096_02,19,['Ultra Orange-PUMA Black']
+104,377746_03,12,"['PUMA Black-Cool Dark Gray-PUMA Silver', 'Cool Dark Gray-Koral Ice', 'Eucalyptus-Alpine Snow-PUMA Black', 'Alpine Snow-Ultra Blue-Yellow Burst', 'Active Red-Ocean Tropic-Lime Pow: out of stock']"
+105,107356_03,13,['Persian Blue-PUMA White-Pro Green']
+106,379114_01,11,['Warm White-Bright Melon']
+107,378791_01,12,['PUMA Black-Cool Dark Gray-PUMA Silver']
+108,377316_07,12,"['Icy Blue-PUMA Silver-Regal Blue', 'Fire Orchid-PUMA Silver-Icy Blue']"
+109,377063_04,12,['PUMA Black-Fire Orchid']
+110,377855_01,12,"['PUMA Black-Platinum Gray', 'Ash Gray-Alpine Snow-Koral Ice', 'Dark Jasper-PUMA Black-Fire Orchid']"
+111,377839_02,12,['Astro Red-Fire Orchid-PUMA Black']
+112,378456_05,12,"['PUMA Black-PUMA Silver', 'PUMA Black-Peach Smoothie-Speed Green', 'Fire Orchid-Ultra Blue']"
+113,377316_09,12,"['Icy Blue-PUMA Silver-Regal Blue', 'Fire Orchid-PUMA Silver-Icy Blue']"
+114,377508_04,12,['PUMA Black-Purple Pop-Yellow Burst']
+115,378684_01,12,['PUMA Black-Strawberry Burst-Yellow Blaze']
+116,397858_01,12,['Pink Delight-PUMA Green-Gum']
+117,396383_02,0,['Eucalyptus-PUMA White: out of stock']
+118,377855_06,12,"['PUMA Black-Platinum Gray', 'Ash Gray-Alpine Snow-Koral Ice', 'Dark Jasper-PUMA Black-Fire Orchid']"
+119,396463_05,12,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+120,379288_01,12,['PUMA Black']
+121,390932_09,12,"['PUMA White-PUMA Black', 'PUMA Black-PUMA White', 'Warm White-Yellow Burst-Parakeet Green']"
+122,307761_01,11,['PUMA Black-Cool Cobalt-Pop Red']
+123,307685_04,12,"['Ash Gray-PUMA Black-Koral Ice', 'Neon Sun-Alpine Snow-PUMA Black']"
+124,307685_03,12,"['Ash Gray-PUMA Black-Koral Ice', 'Neon Sun-Alpine Snow-PUMA Black']"
+125,377942_01,13,['PUMA Black-Cool Dark Gray']
+126,377787_03,13,"['Fire Orchid-Ultra Blue-PUMA White', 'PUMA White-Fire Orchid-Ultra Blue-PUMA Black']"
+127,377746_07,0,"['PUMA Black-Cool Dark Gray-PUMA Silver', 'Cool Dark Gray-Koral Ice', 'Eucalyptus-Alpine Snow-PUMA Black', 'Alpine Snow-Ultra Blue-Yellow Burst', 'Active Red-Ocean Tropic-Lime Pow: out of stock']"
+128,395997_01,0,['Pure Green-Green Illusion: out of stock']
+129,378551_04,12,['Koral Ice-Cool Mid Gray-PUMA Black']
+130,379115_01,14,['Ghost Pepper-PUMA Black-Pink Glimmer']
+131,378435_02,11,['Dusty Tan']
+132,376592_05,11,['Fire Orchid-Ultra Blue-PUMA White']
+133,377855_08,12,"['PUMA Black-Platinum Gray', 'Ash Gray-Alpine Snow-Koral Ice', 'Dark Jasper-PUMA Black-Fire Orchid']"
+134,378688_01,14,"['PUMA Black-PUMA White', 'PUMA White-Speed Green', 'PUMA Black-Bold Blue-Future Pink']"
+135,397647_01,9,"['PUMA White-Vapor Gray-Gum', 'PUMA Black-Feather Gray-Gum']"
+136,379040_01,12,['Yellow Burst-Racing Blue-Pink Glimmer']
+137,396463_02,13,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+138,376855_25,13,"['PUMA Black-Fire Orchid', 'Fire Orchid-PUMA Black-Icy Blue', 'Poison Pink-PUMA Black-PUMA White']"
+139,383157_02,12,['Puma Black']
+140,377787_02,13,"['Fire Orchid-Ultra Blue-PUMA White', 'PUMA White-Fire Orchid-Ultra Blue-PUMA Black']"
+141,376169_01,14,"['Puma Black-Metallic Gold', 'PUMA White-Fire Orchid-PUMA Black', 'PUMA Black-Icy Blue-Speed Green']"
+142,376311_04,9,"['For All Time Red-Ultra Blue', 'PUMA White-Fire Orchid']"
+143,376946_08,12,['Adriatic-PUMA Black-Ravish']
+144,379082_05,23,"['PUMA White-Platinum Gray', 'PUMA White-PUMA Black', 'PUMA White-For All Time Red', 'PUMA White-Clyde Royal', 'PUMA Black-PUMA White', 'Platinum Gray-PUMA White']"
+145,379082_04,23,"['PUMA White-Platinum Gray', 'PUMA White-PUMA Black', 'PUMA White-For All Time Red', 'PUMA White-Clyde Royal', 'PUMA Black-PUMA White', 'Platinum Gray-PUMA White']"
+146,376311_05,9,"['For All Time Red-Ultra Blue', 'PUMA White-Fire Orchid']"
+147,379082_03,23,"['PUMA White-Platinum Gray', 'PUMA White-PUMA Black', 'PUMA White-For All Time Red', 'PUMA White-Clyde Royal', 'PUMA Black-PUMA White', 'Platinum Gray-PUMA White']"
+148,379082_02,23,"['PUMA White-Platinum Gray', 'PUMA White-PUMA Black', 'PUMA White-For All Time Red', 'PUMA White-Clyde Royal', 'PUMA Black-PUMA White', 'Platinum Gray-PUMA White']"
+149,379082_01,22,"['PUMA White-Platinum Gray', 'PUMA White-PUMA Black', 'PUMA White-For All Time Red', 'PUMA White-Clyde Royal', 'PUMA Black-PUMA White', 'Platinum Gray-PUMA White']"
+150,379082_06,23,"['PUMA White-Platinum Gray', 'PUMA White-PUMA Black', 'PUMA White-For All Time Red', 'PUMA White-Clyde Royal', 'PUMA Black-PUMA White', 'Platinum Gray-PUMA White']"
+151,396444_01,12,['Warm White-Toasted Almond-Cashew']
+152,393084_01,12,['Bright Melon-Frosted Ivory']
+153,397643_07,10,"['Fresh Mint-Fast Pink', 'Cobalt Glaze-PUMA White']"
+154,379181_01,19,['Frosted Ivory-Pebble']
+155,378469_01,10,['Koral Ice-Speed Green']
+156,310565_01,20,['Electric Peppermint-PUMA Gold']
+157,394175_01,19,['Vine-Frosted Ivory']
+158,376169_12,9,"['Puma Black-Metallic Gold', 'PUMA White-Fire Orchid-PUMA Black', 'PUMA Black-Icy Blue-Speed Green']"
+159,394174_01,19,['Frosted Ivory-Eggnog']
+160,387468_06,9,['PUMA White-Icy Blue']
+161,377892_10,0,[]
+162,195027_02,12,['Puma Black-Gold']
+163,382829_01,12,"['Puma Black', 'Taffy']"
+164,392699_01,9,['PUMA White-Frosted Ivory-Puma Team Gold']
+165,396073_01,12,['PUMA White-Peach Smoothie-Flaxen']
+166,394750_02,12,['Feather Gray-Warm White']
+167,382829_04,12,"['Puma Black', 'Taffy']"
+168,396672_01,19,['Inky Blue-PUMA Black-Sand Dune']
+169,392514_01,12,['Hot Heat-Frosted Ivory']
+170,191667_02,12,['Puma White-Metallic Gold']
+171,381410_85,10,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Marshmallow-Puma White', 'Lily Pad-Lily Pad', 'Icy Blue-PUMA White', 'Granola-Warm White']"
+172,389082_01,5,"['PUMA Black-PUMA Black', 'Pristine-Pristine']"
+173,393771_01,12,['Island Pink-PUMA White']
+174,393201_03,12,"['Chocolate Chip', 'PUMA Black']"
+175,393085_01,12,['PUMA Black']
+176,393031_02,12,"['Warm White-Granola', 'Ash Gray-Frosted Ivory']"
+177,393031_01,12,"['Warm White-Granola', 'Ash Gray-Frosted Ivory']"
+178,393343_01,12,['Parisian Night-Pristine-Warm Earth']
+179,393201_02,12,"['Chocolate Chip', 'PUMA Black']"
+180,389876_02,11,['PUMA White-Warm White-Pearl Pink']
+181,387150_01,12,['Puma White-Nimbus Cloud']
+182,393987_01,12,['Ghost Pepper-Frosty Pink']
+183,107507_01,13,"['PUMA White-PUMA Black-Fire Orchid', 'Ultra Blue-PUMA White-Pro Green']"
+184,107262_02,13,['PUMA White-PUMA Black-Fast Yellow-Electric Peppermint']
+185,389844_01,11,['Warm White-PUMA White']
+186,394885_01,12,['Warm White-PUMA Black']
+187,395480_01,12,['PUMA Black-Hot Heat']
+188,386270_15,12,"['Puma White-Marshmallow-Purple Charcoal', 'PUMA White-Lavender Fog-Anise Flower', 'PUMA White-Spring Lavender', 'PUMA White-Peach Smoothie']"
+189,107565_01,13,"['Silver Sky-PUMA Black-Fire Orchid', 'Alpine Snow-Asphalt-Yellow Blaze']"
+190,389082_02,5,"['PUMA Black-PUMA Black', 'Pristine-Pristine']"
+191,395119_01,12,['Ash Gray-Concrete Gray-Sedate Gray-Alpine Snow-PUMA Silver']
+192,389853_04,9,"['PUMA White-Marshmallow', 'PUMA White-Warm White-Dark Jasper']"
+193,393752_01,11,"['Flat Dark Gray-Frosted Ivory', 'Concrete Gray-Frosted Ivory']"
+194,394009_01,12,['Frosty Pink-Ghost Pepper']
+195,389894_02,12,['Granola-Day Dream']
+196,393752_02,13,"['Flat Dark Gray-Frosted Ivory', 'Concrete Gray-Frosted Ivory']"
+197,392884_02,12,['Glowing Pink-Desert Clay-PUMA White']
+198,386270_09,10,"['Puma White-Marshmallow-Purple Charcoal', 'PUMA White-Lavender Fog-Anise Flower', 'PUMA White-Spring Lavender', 'PUMA White-Peach Smoothie']"
+199,391096_02,10,['PUMA White-Pearl Pink']
+200,391098_07,12,"['PUMA White-Warm White', 'PUMA White-Summer Green']"
+201,393032_01,12,"['Frosty Pink-Flaxen', 'Warm White-Spring Fern']"
+202,307874_01,11,['PUMA White-Pop Red']
+203,391013_01,12,"['PUMA Black-Vivid Violet', 'PUMA White-Vivid Violet']"
+204,391086_01,12,['PUMA White']
+205,393777_01,12,['Toasted-PUMA White']
+206,393032_02,12,"['Frosty Pink-Flaxen', 'Warm White-Spring Fern']"
+207,391013_02,12,"['PUMA Black-Vivid Violet', 'PUMA White-Vivid Violet']"
+208,393193_01,11,['Granola-PUMA White']
+209,391098_01,9,"['PUMA White-Warm White', 'PUMA White-Summer Green']"
+210,389893_01,12,['PUMA White-Ravish']
+211,387289_01,12,['Puma Black-Poppy Red-Blue Glow']
+212,396115_01,12,['Sand Dune-Green Fog-Fall Foliage']
+213,381410_73,12,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Marshmallow-Puma White', 'Lily Pad-Lily Pad', 'Icy Blue-PUMA White', 'Granola-Warm White']"
+214,383380_06,7,['Fast Yellow-Marble-Warm White']
+215,384412_02,11,['Puma Black']
+216,391226_01,9,['PUMA White-Pristine']
+217,107329_01,13,['PUMA White-PUMA Black-Spring Lavender-Minty Burst']
+218,387157_01,9,['Puma White-Nimbus Cloud']
+219,386270_14,9,"['Puma White-Marshmallow-Purple Charcoal', 'PUMA White-Lavender Fog-Anise Flower', 'PUMA White-Spring Lavender', 'PUMA White-Peach Smoothie']"
+220,391570_01,11,['Vine-Pristine']
+221,393402_03,10,['Dusty Tan-Granola-PUMA White']
+222,389161_01,11,['Platinum Gray-Platinum Gray']
+223,396113_01,11,['Green Fog-PUMA White-Sand Dune']
+224,386270_02,11,"['Puma White-Marshmallow-Purple Charcoal', 'PUMA White-Lavender Fog-Anise Flower', 'PUMA White-Spring Lavender', 'PUMA White-Peach Smoothie']"
+225,384433_02,6,['Puma White-Nimbus Cloud-Fizzy Melon']
+226,393077_01,10,['PUMA White-Frosty Pink']
+227,389585_01,9,['PUMA White']
+228,393340_01,12,['PUMA White-Parisian Night-Vine']
+229,106898_01,13,['Fizzy Light-Parisian Night-Blue Glimmer']
+230,393049_01,15,['PUMA White-Warm White']
+231,377046_09,11,['Fast Yellow-PUMA Black']
+232,385517_02,12,['Pastel Parchment-Peach Pink-Ocean Dive']
+233,107093_02,12,['Fiery Coral-Fizzy Light-Puma Black-Salmon']
+234,374915_01,18,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Gray Violet-Puma White', 'Peacoat-Puma White', 'Honey Mustard-Puma White', 'Cabernet-Puma White', 'Steel Gray-Puma White', 'Puma Black-Puma Black', 'Malachite-PUMA White']"
+235,379303_01,15,['PUMA White']
+236,378916_01,15,['Purple Glimmer-Green Gecko']
+237,374915_04,18,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Gray Violet-Puma White', 'Peacoat-Puma White', 'Honey Mustard-Puma White', 'Cabernet-Puma White', 'Steel Gray-Puma White', 'Puma Black-Puma Black', 'Malachite-PUMA White']"
+238,374915_12,15,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Gray Violet-Puma White', 'Peacoat-Puma White', 'Honey Mustard-Puma White', 'Cabernet-Puma White', 'Steel Gray-Puma White', 'Puma Black-Puma Black', 'Malachite-PUMA White']"
+239,374915_07,18,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Gray Violet-Puma White', 'Peacoat-Puma White', 'Honey Mustard-Puma White', 'Cabernet-Puma White', 'Steel Gray-Puma White', 'Puma Black-Puma Black', 'Malachite-PUMA White']"
+240,374915_02,18,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Gray Violet-Puma White', 'Peacoat-Puma White', 'Honey Mustard-Puma White', 'Cabernet-Puma White', 'Steel Gray-Puma White', 'Puma Black-Puma Black', 'Malachite-PUMA White']"
+241,374915_06,19,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Gray Violet-Puma White', 'Peacoat-Puma White', 'Honey Mustard-Puma White', 'Cabernet-Puma White', 'Steel Gray-Puma White', 'Puma Black-Puma Black', 'Malachite-PUMA White']"
+242,379235_01,15,['Feather Gray-Lime Smash']
+243,379233_01,15,['Fluro Green Pes-PUMA Green-Fluro Yellow Pes']
+244,379601_01,13,"['PUMA Black-Stormy Slate-For All Time Red', 'For All Time Red-PUMA Black-Gray Fog', 'Club Navy-PUMA Black-Electric Lime']"
+245,376941_04,13,"['Puma White-Silver', 'PUMA Black-PUMA Black']"
+246,374915_05,19,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Gray Violet-Puma White', 'Peacoat-Puma White', 'Honey Mustard-Puma White', 'Cabernet-Puma White', 'Steel Gray-Puma White', 'Puma Black-Puma Black', 'Malachite-PUMA White']"
+247,379601_03,13,"['PUMA Black-Stormy Slate-For All Time Red', 'For All Time Red-PUMA Black-Gray Fog', 'Club Navy-PUMA Black-Electric Lime']"
+248,376807_01,13,"['Puma Black', 'PUMA Black-Ocean Tropic-Lime Pow', 'Lime Pow-PUMA Black-PUMA White']"
+249,387272_05,18,"['Ash Gray-For All Time Red-PUMA Black', 'Myrtle-Myrtle-PUMA Black']"
+250,396403_01,16,"['PUMA Black-Warm White-Gum', 'Speed Blue-Lime Pow-Gum', 'Lavender Alert-Burnt Red-Gum']"
+251,366408_01,17,"['Puma White-Puma Team Gold', 'Puma Black-Puma Team Gold']"
+252,392787_07,17,"['Alpine Snow-Alpine Snow', 'PUMA Black-PUMA Black']"
+253,379223_01,12,['Metallic Gold-Fiery Coral']
+254,395542_01,13,['For All Time Red-Dark Orange-PUMA Black']
+255,307936_02,19,"['PUMA Black-PUMA White-Dark Coal', 'Reflex Blue C-PUMA White-Sedate Gray']"
+256,374923_02,19,"['Puma White-Puma White', 'Puma White-Puma Black', 'Puma Black-Puma Black']"
+257,374923_01,19,"['Puma White-Puma White', 'Puma White-Puma Black', 'Puma Black-Puma Black']"
+258,392787_04,11,"['Alpine Snow-Alpine Snow', 'PUMA Black-PUMA Black']"
+259,374915_03,14,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Gray Violet-Puma White', 'Peacoat-Puma White', 'Honey Mustard-Puma White', 'Cabernet-Puma White', 'Steel Gray-Puma White', 'Puma Black-Puma Black', 'Malachite-PUMA White']"
+260,379330_01,0,['Poison Pink-Fluro Orange Pes: out of stock']
+261,381174_01,13,"['Puma Black-Gum', 'Pebble-Gum']"
+262,374915_89,15,"['Puma Black-Puma White', 'High Risk Red-Puma White', 'Gray Violet-Puma White', 'Peacoat-Puma White', 'Honey Mustard-Puma White', 'Cabernet-Puma White', 'Steel Gray-Puma White', 'Puma Black-Puma Black', 'Malachite-PUMA White']"
+263,380190_01,13,"['Puma White', 'Puma Black']"
+264,381174_02,16,"['Puma Black-Gum', 'Pebble-Gum']"
+265,387272_04,18,"['Ash Gray-For All Time Red-PUMA Black', 'Myrtle-Myrtle-PUMA Black']"
+266,394873_01,17,['Warm White-Warm White']
+267,393152_01,13,"['Inky Blue-Persian Blue', 'Cast Iron-PUMA Black']"
+268,392718_01,13,"['PUMA Black-Shadow Gray', 'PUMA White-Alpine Snow']"
+269,393260_01,13,['Pumpkin Pie-Amber']
+270,378453_01,13,['PUMA Black-PUMA Silver-Yellow Blaze']
+271,387286_01,13,['Puma White-Puma White']
+272,374923_03,19,"['Puma White-Puma White', 'Puma White-Puma Black', 'Puma Black-Puma Black']"
+273,307936_01,18,"['PUMA Black-PUMA White-Dark Coal', 'Reflex Blue C-PUMA White-Sedate Gray']"
+274,379601_02,13,"['PUMA Black-Stormy Slate-For All Time Red', 'For All Time Red-PUMA Black-Gray Fog', 'Club Navy-PUMA Black-Electric Lime']"
+275,376151_19,13,"['Puma Black-Harbor Mist-Cherry Tomato', 'Cherry Tomato-Puma Black', 'Puma Black-CASTLEROCK', 'PUMA Black-Cayenne-Wood Violet', 'PUMA White-Platinum Gray-Dark Night', 'PUMA Black-Gray Tile-Fast Yellow', 'PUMA Black', 'Myrtle-PUMA Black-Yellow Burst']"
+276,307211_07,18,['Sand Dune-Bold Blue-PUMA White']
+277,307997_01,10,['Rosso Corsa-PUMA Black']
+278,376941_12,11,"['Puma White-Silver', 'PUMA Black-PUMA Black']"
+279,366408_02,18,"['Puma White-Puma Team Gold', 'Puma Black-Puma Team Gold']"
+280,397418_01,15,['PUMA White-PUMA Navy-PUMA Silver']
+281,376151_04,13,"['Puma Black-Harbor Mist-Cherry Tomato', 'Cherry Tomato-Puma Black', 'Puma Black-CASTLEROCK', 'PUMA Black-Cayenne-Wood Violet', 'PUMA White-Platinum Gray-Dark Night', 'PUMA Black-Gray Tile-Fast Yellow', 'PUMA Black', 'Myrtle-PUMA Black-Yellow Burst']"
+282,307999_01,19,['PUMA White-PUMA Black']
+283,307648_04,15,['PUMA Black-Dusty Green-Neon Sun']
+284,386759_01,18,"['Puma White-Puma Team Gold', 'Puma White-Puma Black', 'Puma Black-Puma White', 'PUMA White-Malachite']"
+285,364669_02,13,"['Puma White-Puma Black-Puma Team Gold', 'Puma White-Puma New Navy-Puma Team Gold']"
+286,393747_01,17,"['Alpine Snow-Warm White', 'Icy Blue-Warm White']"
+287,384139_02,10,"['Puma Black-Puma White', 'Puma White-Puma Black', 'Peacoat-Puma White']"
+288,393473_18,19,"['Cobalt Glaze-Pelé Yellow', 'Pink Delight-PUMA Green']"
+289,380017_01,12,"['PUMA White-PUMA Silver-Cherry Tomato', 'Cherry Tomato-PUMA Black']"
+290,379908_07,15,['Passionfruit-PUMA Green-Peach Fizz']
+291,393490_04,19,"['Alpine Snow-Chocolate Chip-Puma Team Gold', 'Granola-PUMA Black-Puma Team Gold']"
+292,397116_01,20,['PUMA White-PUMA Black-Vapor Gray']
+293,307822_01,19,"['PUMA Black-PUMA White', 'Rosso Corsa-PUMA White']"
+294,398352_02,13,"['Club Navy', 'Dark Myrtle']"
+295,307817_01,19,['Rosso Corsa-Frosted Ivory']
+296,396704_02,19,['Sedate Gray-PUMA White']
+297,393473_17,19,"['Cobalt Glaze-Pelé Yellow', 'Pink Delight-PUMA Green']"
+298,107563_01,20,"['PUMA Black-PUMA White-Fire Orchid', 'Persian Blue-Pro Green-Ultra Blue', 'Alpine Snow-Asphalt-Yellow Blaze']"
+299,107311_02,20,"['PUMA White-PUMA Black-Fire Orchid', 'PUMA Black-Asphalt', 'Ultra Blue-PUMA White-Pro Green', 'Yellow Blaze-PUMA White-PUMA Black']"
+300,364669_01,11,"['Puma White-Puma Black-Puma Team Gold', 'Puma White-Puma New Navy-Puma Team Gold']"
+301,307784_02,13,['PUMA White']
+302,377858_06,11,['Eucalyptus-PUMA Black-Neon Sun']
+303,380017_02,12,"['PUMA White-PUMA Silver-Cherry Tomato', 'Cherry Tomato-PUMA Black']"
+304,379139_03,13,"['PUMA Black-Shadow Gray', 'Concrete Gray-Flat Dark Gray']"
+305,376151_01,13,"['Puma Black-Harbor Mist-Cherry Tomato', 'Cherry Tomato-Puma Black', 'Puma Black-CASTLEROCK', 'PUMA Black-Cayenne-Wood Violet', 'PUMA White-Platinum Gray-Dark Night', 'PUMA Black-Gray Tile-Fast Yellow', 'PUMA Black', 'Myrtle-PUMA Black-Yellow Burst']"
+306,389267_10,19,"['Sugared Almond-Prairie Tan', 'PUMA Black-PUMA Black', 'PUMA White-Cobalt Glaze-PUMA Black']"
+307,393747_02,14,"['Alpine Snow-Warm White', 'Icy Blue-Warm White']"
+308,398352_01,13,"['Club Navy', 'Dark Myrtle']"
+309,394687_01,19,['PUMA White-PUMA Navy']
+310,394057_01,13,['Fall Foliage-Alpine Snow-Cool Light Gray']
+311,377757_11,13,"['PUMA Black', 'Ultra Blue-PUMA Black-PUMA Silver', 'Fire Orchid-PUMA Black-Ultra Blue', 'Yellow Burst-PUMA Black-PUMA Silver', 'Lime Pow-PUMA Black-PUMA White', 'PUMA White-Ocean Tropic-Lime Pow']"
+312,393490_03,19,"['Alpine Snow-Chocolate Chip-Puma Team Gold', 'Granola-PUMA Black-Puma Team Gold']"
+313,379139_01,13,"['PUMA Black-Shadow Gray', 'Concrete Gray-Flat Dark Gray']"
+314,195336_08,12,"['For All Time Red-Ultra Blue', 'PUMA White-Ultra Blue']"
+315,307751_02,13,"['PUMA Black-PUMA White', 'PUMA White-PUMA White']"
+316,307986_01,13,['PUMA Black-Pop Red']
+317,377745_03,13,"['PUMA Black-Dark Coal', 'Inky Blue-PUMA Black-Neon Sun', 'Eucalyptus-Alpine Snow-PUMA Black', 'Neon Sun-PUMA Black', 'PUMA Black-Lime Pow-Active Red: out of stock']"
+318,307789_01,17,['PUMA Black-PUMA White']
+319,307751_01,19,"['PUMA Black-PUMA White', 'PUMA White-PUMA White']"
+320,393286_01,13,['Glacial Gray-PUMA Black']
+321,377745_01,13,"['PUMA Black-Dark Coal', 'Inky Blue-PUMA Black-Neon Sun', 'Eucalyptus-Alpine Snow-PUMA Black', 'Neon Sun-PUMA Black', 'PUMA Black-Lime Pow-Active Red: out of stock']"
+322,389267_17,19,"['Sugared Almond-Prairie Tan', 'PUMA Black-PUMA Black', 'PUMA White-Cobalt Glaze-PUMA Black']"
+323,393301_02,19,['Cayenne Pepper-Astro Red']
+324,376151_13,13,"['Puma Black-Harbor Mist-Cherry Tomato', 'Cherry Tomato-Puma Black', 'Puma Black-CASTLEROCK', 'PUMA Black-Cayenne-Wood Violet', 'PUMA White-Platinum Gray-Dark Night', 'PUMA Black-Gray Tile-Fast Yellow', 'PUMA Black', 'Myrtle-PUMA Black-Yellow Burst']"
+325,379886_01,21,['PUMA Navy']
+326,377745_04,12,"['PUMA Black-Dark Coal', 'Inky Blue-PUMA Black-Neon Sun', 'Eucalyptus-Alpine Snow-PUMA Black', 'Neon Sun-PUMA Black', 'PUMA Black-Lime Pow-Active Red: out of stock']"
+327,377757_01,13,"['PUMA Black', 'Ultra Blue-PUMA Black-PUMA Silver', 'Fire Orchid-PUMA Black-Ultra Blue', 'Yellow Burst-PUMA Black-PUMA Silver', 'Lime Pow-PUMA Black-PUMA White', 'PUMA White-Ocean Tropic-Lime Pow']"
+328,307822_02,16,"['PUMA Black-PUMA White', 'Rosso Corsa-PUMA White']"
+329,390932_02,18,"['PUMA White-PUMA Black', 'PUMA Black-PUMA White', 'Warm White-Yellow Burst-Parakeet Green']"
+330,392982_01,19,"['PUMA White-Sedate Gray', 'PUMA Black-Strong Gray', 'Smokey Gray-Ash Gray']"
+331,379068_04,12,['PUMA White-PUMA Silver-Cherry Tomato']
+332,393151_01,13,['Feather Gray-Warm White']
+333,392721_01,13,['Frosted Ivory-Granola']
+334,395121_01,13,['Day Dream-Yellow Sizzle-Dark Night']
+335,307920_02,17,"['Light Mint-PUMA Black-PUMA White', 'PUMA Black-Light Mint-PUMA White']"
+336,384139_04,9,"['Puma Black-Puma White', 'Puma White-Puma Black', 'Peacoat-Puma White']"
+337,392862_01,13,['PUMA Black']
+338,307847_01,13,['PUMA Black-Spectra Green']
+339,307998_01,19,['Rosso Corsa-Frosted Ivory']
+340,376151_02,13,"['Puma Black-Harbor Mist-Cherry Tomato', 'Cherry Tomato-Puma Black', 'Puma Black-CASTLEROCK', 'PUMA Black-Cayenne-Wood Violet', 'PUMA White-Platinum Gray-Dark Night', 'PUMA Black-Gray Tile-Fast Yellow', 'PUMA Black', 'Myrtle-PUMA Black-Yellow Burst']"
+341,393306_02,13,"['Sand Dune-Concrete Gray-Warm White', 'Sand Dune-Concrete Gray-Granola']"
+342,393449_02,19,['Chocolate Chip-Flaxen']
+343,378472_01,13,['PUMA Black-Malachite-Yellow Burst']
+344,378457_01,13,['PUMA Black-Astro Red-Alpine Snow']
+345,378687_02,13,"['PUMA Black-PUMA White', 'Eucalyptus-PUMA Black', 'PUMA White-Club Navy']"
+346,195336_09,12,"['For All Time Red-Ultra Blue', 'PUMA White-Ultra Blue']"
+347,307791_01,13,['Amber-PUMA Black-Puma White']
+348,393306_01,13,"['Sand Dune-Concrete Gray-Warm White', 'Sand Dune-Concrete Gray-Granola']"
+349,393078_01,19,['Sedate Gray-Pinktastic']
+350,386759_10,13,"['Puma White-Puma Team Gold', 'Puma White-Puma Black', 'Puma Black-Puma White', 'PUMA White-Malachite']"
+351,392718_04,12,"['PUMA Black-Shadow Gray', 'PUMA White-Alpine Snow']"
+352,393115_02,19,['PUMA Black-Frosted Ivory']
+353,376151_22,13,"['Puma Black-Harbor Mist-Cherry Tomato', 'Cherry Tomato-Puma Black', 'Puma Black-CASTLEROCK', 'PUMA Black-Cayenne-Wood Violet', 'PUMA White-Platinum Gray-Dark Night', 'PUMA Black-Gray Tile-Fast Yellow', 'PUMA Black', 'Myrtle-PUMA Black-Yellow Burst']"
+354,394798_01,13,['Smokey Gray-Cool Light Gray']
+355,390932_01,12,"['PUMA White-PUMA Black', 'PUMA Black-PUMA White', 'Warm White-Yellow Burst-Parakeet Green']"
+356,395773_02,13,['Warm White-Club Navy']
+357,378541_02,15,['PUMA Black-PUMA White-Lime Squeeze']
+358,378434_02,12,['Dusty Tan']
+359,307826_02,19,"['PUMA Black-Warm White', 'Rosso Corsa-Warm White']"
+360,307684_01,13,"['PUMA Black-Dark Coal', 'Neon Sun-Clementine-PUMA Black']"
+361,107553_01,11,['Ultra Blue-Luminous Pink-Luminous Blue']
+362,378474_01,12,['PUMA Black-PUMA Silver']
+363,307826_01,19,"['PUMA Black-Warm White', 'Rosso Corsa-Warm White']"
+364,393114_01,19,['PUMA White']
+365,389267_19,19,"['Sugared Almond-Prairie Tan', 'PUMA Black-PUMA Black', 'PUMA White-Cobalt Glaze-PUMA Black']"
+366,377757_15,12,"['PUMA Black', 'Ultra Blue-PUMA Black-PUMA Silver', 'Fire Orchid-PUMA Black-Ultra Blue', 'Yellow Burst-PUMA Black-PUMA Silver', 'Lime Pow-PUMA Black-PUMA White', 'PUMA White-Ocean Tropic-Lime Pow']"
+367,379079_05,15,"['Bold Blue-Dark Clove-Pro Green-Fire Orchid-Koral Ice', 'Lime Squeeze-PUMA White']"
+368,393152_02,13,"['Inky Blue-Persian Blue', 'Cast Iron-PUMA Black']"
+369,389365_06,12,"['PUMA Black-PUMA White', 'PUMA White-Inky Blue']"
+370,378734_02,13,"['PUMA Black-Dark Coal', 'PUMA Black-Yellow Burst-Malachite']"
+371,107473_01,17,['PUMA White-Vivid Violet']
+372,395737_02,0,['Turquoise Surf-Grape Mist: out of stock']
+373,393277_02,13,['PUMA White-Olive Drab']
+374,386329_06,12,['Pristine-Elektro Purple']
+375,393136_01,13,['PUMA White-Flaxen-Apple Cider']
+376,377745_05,13,"['PUMA Black-Dark Coal', 'Inky Blue-PUMA Black-Neon Sun', 'Eucalyptus-Alpine Snow-PUMA Black', 'Neon Sun-PUMA Black', 'PUMA Black-Lime Pow-Active Red: out of stock']"
+377,393115_02,19,['PUMA Black-Frosted Ivory']
+378,379079_03,15,"['Bold Blue-Dark Clove-Pro Green-Fire Orchid-Koral Ice', 'Lime Squeeze-PUMA White']"
+379,396127_01,13,['PUMA Black-PUMA Red']
+380,307756_01,10,['Ultra Blue-Jet Black']
+381,379291_01,13,['Dark Night-Royal Sapphire']
+382,389365_05,12,"['PUMA Black-PUMA White', 'PUMA White-Inky Blue']"
+383,378455_07,13,['Speed Green-PUMA Silver-PUMA Black']
+384,393941_01,13,"['Icy Blue-Icy Blue', 'Feather Gray-Feather Gray']"
+385,394799_03,13,"['Warm White-Granola', 'Warm White-Parisian Night']"
+386,307771_01,12,['PUMA Black-Dark Coal']
+387,107474_01,15,['PUMA White-Fire Orchid-Vivid Violet-Sedate Gray']
+388,307684_04,13,"['PUMA Black-Dark Coal', 'Neon Sun-Clementine-PUMA Black']"
+389,378687_06,13,"['PUMA Black-PUMA White', 'Eucalyptus-PUMA Black', 'PUMA White-Club Navy']"
+390,377757_13,13,"['PUMA Black', 'Ultra Blue-PUMA Black-PUMA Silver', 'Fire Orchid-PUMA Black-Ultra Blue', 'Yellow Burst-PUMA Black-PUMA Silver', 'Lime Pow-PUMA Black-PUMA White', 'PUMA White-Ocean Tropic-Lime Pow']"
+391,396463_01,0,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+392,378459_01,13,['PUMA Black-Yellow Burst-Malachite']
+393,396463_09,0,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+394,397263_02,19,"['PUMA White-Feather Gray', 'PUMA Black-Silver Mist']"
+395,377757_19,13,"['PUMA Black', 'Ultra Blue-PUMA Black-PUMA Silver', 'Fire Orchid-PUMA Black-Ultra Blue', 'Yellow Burst-PUMA Black-PUMA Silver', 'Lime Pow-PUMA Black-PUMA White', 'PUMA White-Ocean Tropic-Lime Pow']"
+396,394799_02,13,"['Warm White-Granola', 'Warm White-Parisian Night']"
+397,397263_01,19,"['PUMA White-Feather Gray', 'PUMA Black-Silver Mist']"
+398,377757_18,13,"['PUMA Black', 'Ultra Blue-PUMA Black-PUMA Silver', 'Fire Orchid-PUMA Black-Ultra Blue', 'Yellow Burst-PUMA Black-PUMA Silver', 'Lime Pow-PUMA Black-PUMA White', 'PUMA White-Ocean Tropic-Lime Pow']"
+399,376807_19,13,"['Puma Black', 'PUMA Black-Ocean Tropic-Lime Pow', 'Lime Pow-PUMA Black-PUMA White']"
+400,376807_20,13,"['Puma Black', 'PUMA Black-Ocean Tropic-Lime Pow', 'Lime Pow-PUMA Black-PUMA White']"
+401,308181_01,1,['Rosso Corsa-PUMA Black']
+402,392086_01,15,['PUMA White-Pristine']
+403,377745_06,0,"['PUMA Black-Dark Coal', 'Inky Blue-PUMA Black-Neon Sun', 'Eucalyptus-Alpine Snow-PUMA Black', 'Neon Sun-PUMA Black', 'PUMA Black-Lime Pow-Active Red: out of stock']"
+404,308271_01,1,['PUMA Black-PUMA White']
+405,195337_19,14,"['Fire Orchid-Puma Black', 'Ultra Blue-Fire Orchid']"
+406,376151_17,12,"['Puma Black-Harbor Mist-Cherry Tomato', 'Cherry Tomato-Puma Black', 'Puma Black-CASTLEROCK', 'PUMA Black-Cayenne-Wood Violet', 'PUMA White-Platinum Gray-Dark Night', 'PUMA Black-Gray Tile-Fast Yellow', 'PUMA Black', 'Myrtle-PUMA Black-Yellow Burst']"
+407,385754_01,12,['CASTLEROCK-Puma Black-High Risk Red']
+408,396463_07,13,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+409,379286_01,13,['PUMA Black']
+410,394684_01,15,"['PUMA White-Team Regal Red', 'PUMA White-Yellow Sizzle']"
+411,393314_02,16,['Sedate Gray-Sedate Gray']
+412,377315_07,13,['Fire Orchid-PUMA Silver']
+413,392085_01,15,['PUMA White-PUMA White']
+414,379557_01,17,['Sun Stream-Sunset Glow-PUMA Black']
+415,107311_03,18,"['PUMA White-PUMA Black-Fire Orchid', 'PUMA Black-Asphalt', 'Ultra Blue-PUMA White-Pro Green', 'Yellow Blaze-PUMA White-PUMA Black']"
+416,378096_02,19,['Ultra Orange-PUMA Black']
+417,396403_02,21,"['PUMA Black-Warm White-Gum', 'Speed Blue-Lime Pow-Gum', 'Lavender Alert-Burnt Red-Gum']"
+418,390932_09,12,"['PUMA White-PUMA Black', 'PUMA Black-PUMA White', 'Warm White-Yellow Burst-Parakeet Green']"
+419,107293_01,19,['Silver Sky-Persian Blue-PUMA White']
+420,393941_02,13,"['Icy Blue-Icy Blue', 'Feather Gray-Feather Gray']"
+421,393326_01,17,['Persian Blue-Orange Brick']
+422,395281_01,15,['For All Time Red-Dark Orange-PUMA Black']
+423,395033_01,12,['Granola-Sand Dune-PUMA Black-Spring Fern']
+424,107566_03,18,"['PUMA Black-PUMA White', 'Persian Blue-Pro Green-Ultra Blue', 'Alpine Snow-Asphalt-Yellow Blaze']"
+425,107340_02,19,['PUMA White-PUMA Black-Concrete Gray']
+426,384139_01,10,"['Puma Black-Puma White', 'Puma White-Puma Black', 'Peacoat-Puma White']"
+427,107563_05,19,"['PUMA Black-PUMA White-Fire Orchid', 'Persian Blue-Pro Green-Ultra Blue', 'Alpine Snow-Asphalt-Yellow Blaze']"
+428,307954_01,12,['PUMA Black-PUMA Black']
+429,107563_04,18,"['PUMA Black-PUMA White-Fire Orchid', 'Persian Blue-Pro Green-Ultra Blue', 'Alpine Snow-Asphalt-Yellow Blaze']"
+430,107422_03,13,"['Ultra Blue-PUMA White-Pro Green', 'Yellow Blaze-PUMA White-PUMA Black']"
+431,376591_08,12,['Fire Orchid-Ultra Blue-PUMA White']
+432,393196_01,14,['PUMA White-For All Time Red']
+433,378222_03,18,['Sun Stream-Sunset Glow-PUMA Black']
+434,396464_01,15,"['PUMA White-Vapor Gray-Gum', 'PUMA Black-Feather Gray-Gum']"
+435,396403_03,21,"['PUMA Black-Warm White-Gum', 'Speed Blue-Lime Pow-Gum', 'Lavender Alert-Burnt Red-Gum']"
+436,307920_01,14,"['Light Mint-PUMA Black-PUMA White', 'PUMA Black-Light Mint-PUMA White']"
+437,378550_05,12,['Eucalyptus-Neon Sun']
+438,378436_02,11,['Dusty Tan']
+439,396464_03,19,"['PUMA White-Vapor Gray-Gum', 'PUMA Black-Feather Gray-Gum']"
+440,195337_16,14,"['Fire Orchid-Puma Black', 'Ultra Blue-Fire Orchid']"
+441,107374_03,13,['Persian Blue-PUMA White-Pro Green']
+442,107296_04,17,"['Fast Yellow-PUMA Navy-PUMA White', 'PUMA White-PUMA Black-Team Light Blue', 'PUMA White-Ravish-Fast Yellow', 'PUMA Navy-Fast Yellow-Puma White']"
+443,396463_02,13,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+444,107311_04,15,"['PUMA White-PUMA Black-Fire Orchid', 'PUMA Black-Asphalt', 'Ultra Blue-PUMA White-Pro Green', 'Yellow Blaze-PUMA White-PUMA Black']"
+445,396463_05,12,"['Pelé Yellow-Club Red: out of stock', 'Fresh Mint-Fast Pink', 'Vine-Clementine', 'Cobalt Glaze-PUMA White', 'Club Red-Club Navy: out of stock']"
+446,107355_03,19,"['Persian Blue-PUMA White-Pro Green', 'Sedate Gray-Asphalt-Yellow Blaze']"
+447,380007_01,12,"['PUMA Black-Luminous Blue-Electric Orchid', 'PUMA White-Luminous Blue-Electric Orchid']"
+448,307996_01,10,['PUMA White-Rosso Corsa']
+449,393157_01,11,['Frosted Ivory-Vapor Gray']
+450,308277_01,9,['Flat Medium Gray-Pop Red-PUMA Black']
+451,378687_01,13,"['PUMA Black-PUMA White', 'Eucalyptus-PUMA Black', 'PUMA White-Club Navy']"
+452,380190_02,12,"['Puma White', 'Puma Black']"
+453,107361_04,13,"['Persian Blue-PUMA White-Pro Green', 'Sedate Gray-Asphalt-Yellow Blaze']"
+454,379081_04,15,"['PUMA White-PUMA Navy-Lime Squeeze', 'PUMA White-For All Time Red']"
+455,107610_01,13,['PUMA White-Racing Blue-Lemon Meringue-Parakeet Green']
+456,394223_01,7,"['Green Gecko-Prism Violet', 'PUMA Green-Fluro Yellow Pes-Fluro Green Pes']"
+457,307940_01,13,['PUMA Black-Pop Red']
+458,107355_04,17,"['Persian Blue-PUMA White-Pro Green', 'Sedate Gray-Asphalt-Yellow Blaze']"
+459,378465_01,11,['PUMA Black-Yellow Blaze-Strawberry Burst']
+460,377507_04,12,['PUMA Black-Malachite-Yellow Burst']
+461,380007_02,12,"['PUMA Black-Luminous Blue-Electric Orchid', 'PUMA White-Luminous Blue-Electric Orchid']"
+462,395032_01,11,['PUMA Green-Spring Fern-PUMA Black']
+463,393167_02,11,['Archive Green-Warm White']
+464,393084_01,12,['Bright Melon-Frosted Ivory']
+465,107540_01,14,['Luminous Pink-Ultra Blue-Yellow Alert']
+466,378683_01,12,['PUMA Black-Yellow Blaze-Strawberry Burst']
+467,379081_03,15,"['PUMA White-PUMA Navy-Lime Squeeze', 'PUMA White-For All Time Red']"
+468,107521_03,18,"['PUMA White-PUMA Black-Fire Orchid', 'Ultra Blue-PUMA White-Pro Green']"
+469,107296_01,17,"['Fast Yellow-PUMA Navy-PUMA White', 'PUMA White-PUMA Black-Team Light Blue', 'PUMA White-Ravish-Fast Yellow', 'PUMA Navy-Fast Yellow-Puma White']"
+470,107539_01,13,['Purple Charcoal-Fast Yellow-Ravish-PUMA White']
+471,107522_03,13,"['PUMA White-PUMA Black-Fire Orchid', 'Ultra Blue-PUMA White-Pro Green']"
+472,378734_01,12,"['PUMA Black-Dark Coal', 'PUMA Black-Yellow Burst-Malachite']"
+473,107566_02,16,"['PUMA Black-PUMA White', 'Persian Blue-Pro Green-Ultra Blue', 'Alpine Snow-Asphalt-Yellow Blaze']"
+474,107296_03,12,"['Fast Yellow-PUMA Navy-PUMA White', 'PUMA White-PUMA Black-Team Light Blue', 'PUMA White-Ravish-Fast Yellow', 'PUMA Navy-Fast Yellow-Puma White']"
+475,394684_02,12,"['PUMA White-Team Regal Red', 'PUMA White-Yellow Sizzle']"
+476,107296_02,16,"['Fast Yellow-PUMA Navy-PUMA White', 'PUMA White-PUMA Black-Team Light Blue', 'PUMA White-Ravish-Fast Yellow', 'PUMA Navy-Fast Yellow-Puma White']"
+477,394223_04,6,"['Green Gecko-Prism Violet', 'PUMA Green-Fluro Yellow Pes-Fluro Green Pes']"
+478,377001_01,18,['Sun Stream-Sunset Glow-Puma Black']
+479,379113_01,13,['Alpine Snow-Cool Dark Gray-Astro Red']
+480,376151_15,11,"['Puma Black-Harbor Mist-Cherry Tomato', 'Cherry Tomato-Puma Black', 'Puma Black-CASTLEROCK', 'PUMA Black-Cayenne-Wood Violet', 'PUMA White-Platinum Gray-Dark Night', 'PUMA Black-Gray Tile-Fast Yellow', 'PUMA Black', 'Myrtle-PUMA Black-Yellow Burst']"
+481,107609_01,12,['PUMA Black-Alpine Snow-PUMA Gold-PUMA White']
+482,107361_03,13,"['Persian Blue-PUMA White-Pro Green', 'Sedate Gray-Asphalt-Yellow Blaze']"
+483,107375_03,13,['Persian Blue-PUMA White-Pro Green']
+484,391962_06,11,['Dark Jasper-Frosted Ivory']
+485,379652_01,0,[]
+486,378580_01,0,[]
+487,385296_02,10,"['Puma Black-Puma Black', 'Putty-Putty']"
+488,385296_03,11,"['Puma Black-Puma Black', 'Putty-Putty']"
+489,386600_01,11,['Puma Black-Whisper White']
+490,107311_01,14,"['PUMA White-PUMA Black-Fire Orchid', 'PUMA Black-Asphalt', 'Ultra Blue-PUMA White-Pro Green', 'Yellow Blaze-PUMA White-PUMA Black']"
+491,397572_01,19,['PUMA White-Puma Team Gold']
+492,391610_01,18,"['Deep Lichen Green-Dark Olive', 'Tapioca-Pebble']"
+493,394981_02,19,"['Day Dream-Evening Sky-PUMA White', 'Fizzy Apple-Platinum Gray-PUMA White']"
+494,397112_01,19,"['Malachite-Warm White', 'PUMA Black-PUMA Black']"
+495,391610_02,19,"['Deep Lichen Green-Dark Olive', 'Tapioca-Pebble']"
+496,397112_02,19,"['Malachite-Warm White', 'PUMA Black-PUMA Black']"
+497,390717_01,11,"['Orange Brick-Clementine', 'Hero Blue-Electric Peppermint']"
+498,392435_01,19,"['New Navy-Warm White', 'Alpine Snow-Warm White']"
+499,396672_01,19,['Inky Blue-PUMA Black-Sand Dune']
+500,382112_01,6,['Puma Black-Puma White']
+501,366608_07,11,['Ribbon Red-Puma White-Puma Team Gold']
+502,307891_01,11,"['PUMA White-PUMA White-Spectra Green', 'Spectra Green-PUMA Black-Puma Black']"
+503,392982_04,19,"['PUMA White-Sedate Gray', 'PUMA Black-Strong Gray', 'Smokey Gray-Ash Gray']"
+504,392982_05,19,"['PUMA White-Sedate Gray', 'PUMA Black-Strong Gray', 'Smokey Gray-Ash Gray']"
+505,307891_02,11,"['PUMA White-PUMA White-Spectra Green', 'Spectra Green-PUMA Black-Puma Black']"
+506,307778_03,12,['Sand Dune-PUMA White-PUMA Black']
+507,386759_03,11,"['Puma White-Puma Team Gold', 'Puma White-Puma Black', 'Puma Black-Puma White', 'PUMA White-Malachite']"
+508,379087_01,14,['PUMA Black-Myrtle-Dark Clove-Bold Blue-Electric Blush']
+509,377044_07,13,['Chili Powder-PUMA Black']
+510,307959_01,13,"['PUMA Black-Speed Yellow', 'Rosso Corsa-PUMA Black']"
+511,393116_01,13,['PUMA Red-Clyde Royal']
+512,396106_01,12,['Sand Dune-PUMA Black-Racing Blue']
+513,377827_01,13,['Fast Yellow-PUMA Black']
+514,390717_04,13,"['Orange Brick-Clementine', 'Hero Blue-Electric Peppermint']"
+515,392724_01,13,"['PUMA White-Ultra Blue', 'Glacial Gray-Green Fog', 'PUMA White-Peach Smoothie', 'Glacial Gray-Icy Blue', 'PUMA White-Vivid Violet']"
+516,376582_32,15,"['PUMA Black-Ultra Blue-PUMA White-Platinum Gray', 'PUMA Black-Sedate Gray-PUMA White-Metallic Gold']"
+517,392983_02,19,['Ash Gray-Ultra Blue']
+518,392724_04,18,"['PUMA White-Ultra Blue', 'Glacial Gray-Green Fog', 'PUMA White-Peach Smoothie', 'Glacial Gray-Icy Blue', 'PUMA White-Vivid Violet']"
+519,307959_02,13,"['PUMA Black-Speed Yellow', 'Rosso Corsa-PUMA Black']"
+520,396087_01,13,['PUMA White-Malachite-Dark Coal']
+521,394628_01,6,['Strawberry Burst-Pinktastic-Spectra Green-Warm White']
+522,307649_01,13,['Spectra Green-PUMA Silver']
+523,307758_01,10,['Ash Gray-Ash Gray']
+524,390196_01,13,['PUMA White-Nitro Blue']
+525,394981_01,15,"['Day Dream-Evening Sky-PUMA White', 'Fizzy Apple-Platinum Gray-PUMA White']"
+526,376999_01,13,['Sun Stream-Sunset Glow-Puma Black']
+527,394491_01,12,['PUMA Black-PUMA Black-Burnt Red']
+528,392434_01,13,['PUMA White-Warm White-Cool Light Gray']
+529,394885_01,12,['Warm White-PUMA Black']
+530,379096_01,19,['Clyde Royal-Harbor Mist-PUMA Black-Fire Orchid']
+531,396075_01,11,['Myrtle-Fall Foliage']
+532,389160_01,11,['Pebble Gray-Pebble Gray-Fizzy Apple']
+533,394018_01,11,['Green Fog-Hot Heat-Yellow Sizzle']
+534,387499_01,12,['Bluemazing-Puma Black']
+535,392724_05,14,"['PUMA White-Ultra Blue', 'Glacial Gray-Green Fog', 'PUMA White-Peach Smoothie', 'Glacial Gray-Icy Blue', 'PUMA White-Vivid Violet']"
+536,393646_02,12,['PUMA Black-Yellow Burst']
+537,377959_03,15,['PUMA Black-PUMA White-PUMA Red']
+538,376582_31,13,"['PUMA Black-Ultra Blue-PUMA White-Platinum Gray', 'PUMA Black-Sedate Gray-PUMA White-Metallic Gold']"
+539,396138_01,11,['PUMA Black-PUMA Red-Pitch Green']
+540,392724_07,13,"['PUMA White-Ultra Blue', 'Glacial Gray-Green Fog', 'PUMA White-Peach Smoothie', 'Glacial Gray-Icy Blue', 'PUMA White-Vivid Violet']"
+541,377854_05,13,['Inky Blue-Neon Sun']
+542,394933_09,11,"['PUMA White-PUMA Black', 'Alpine Snow-Warm White-PUMA Black']"
+543,307859_01,13,['PUMA White']
+544,387654_01,15,['Sun Stream-Sunset Glow']
+545,307571_01,12,['PUMA Silver-PUMA Silver']
+546,393752_01,11,"['Flat Dark Gray-Frosted Ivory', 'Concrete Gray-Frosted Ivory']"
+547,378986_02,15,['Frosted Ivory']
+548,386759_02,12,"['Puma White-Puma Team Gold', 'Puma White-Puma Black', 'Puma Black-Puma White', 'PUMA White-Malachite']"
+549,393390_01,12,['Harbor Mist-Pristine-Warm White']
+550,307475_02,6,['PUMA Black-PUMA Silver']
+551,394933_01,11,"['PUMA White-PUMA Black', 'Alpine Snow-Warm White-PUMA Black']"
+552,378052_05,12,['PUMA White-Team Violet']
+553,107566_01,16,"['PUMA Black-PUMA White', 'Persian Blue-Pro Green-Ultra Blue', 'Alpine Snow-Asphalt-Yellow Blaze']"
+554,393231_04,13,['Sedate Gray-Frosted Ivory']
+555,377007_01,13,['Sun Stream-Sunset Glow-Puma Black']
+556,394544_01,12,['PUMA Black-Frosted Ivory']
+557,392865_02,12,['PUMA White-Bold Blue']
+558,377962_03,12,['PUMA White-PUMA Black-PUMA Red']
+559,377000_02,12,['PUMA White-PUMA Black-PUMA Red']
+560,379137_01,13,['PUMA Black-Pelé Yellow-Archive Green-Racing Blue-PUMA White']
+561,307506_01,6,['PUMA White']
+562,393752_02,13,"['Flat Dark Gray-Frosted Ivory', 'Concrete Gray-Frosted Ivory']"
+563,393813_02,14,"['PUMA Black-Hot Heat', 'PUMA Black-PUMA Green']"
+564,307759_01,10,['Ash Gray-Ash Gray']
+565,394635_01,11,['Warm White-PUMA White']
+566,307760_02,10,['Persian Blue-Persian Blue']
+567,390972_01,13,['PUMA Black-PUMA White']
+568,379013_07,13,"['Purple Glimmer-Bright Aqua-PUMA White', 'Ash Gray-PUMA White-PUMA Black-Ultra Blue-Team Aqua']"
+569,388640_02,12,['Puma White-Puma White']
+570,377961_01,14,['Sun Stream-PUMA Black-PUMA Silver']
+571,377005_01,13,['Sun Stream-Sunset Glow-Puma Black']
+572,307897_01,12,"['Smoked Pearl-PUMA Black-Warm White', 'PUMA White-Gray Violet-Warm White']"
+573,374862_02,7,"['Puma Black-High Rise', 'Marshmallow-Puma Black', 'Deep Forest-Puma Black']"
+574,379013_06,13,"['Purple Glimmer-Bright Aqua-PUMA White', 'Ash Gray-PUMA White-PUMA Black-Ultra Blue-Team Aqua']"
+575,392724_03,13,"['PUMA White-Ultra Blue', 'Glacial Gray-Green Fog', 'PUMA White-Peach Smoothie', 'Glacial Gray-Icy Blue', 'PUMA White-Vivid Violet']"
+576,378278_01,13,['Royal Sapphire-Ravish']
+577,377379_01,14,['Sun Stream-Sunset Glow-Puma Black']
+578,374862_09,7,"['Puma Black-High Rise', 'Marshmallow-Puma Black', 'Deep Forest-Puma Black']"
+579,307897_02,13,"['Smoked Pearl-PUMA Black-Warm White', 'PUMA White-Gray Violet-Warm White']"
+580,393266_02,17,['PUMA White-PUMA Black']
+581,387998_12,12,['Puma White-PUMA Team Royal']
+582,393813_01,11,"['PUMA Black-Hot Heat', 'PUMA Black-PUMA Green']"
+583,390129_01,13,['Minty Burst-Warm White']
+584,394552_01,13,['PUMA White-Ultra Blue-Feather Gray']
+585,392435_02,13,"['New Navy-Warm White', 'Alpine Snow-Warm White']"
+586,387327_06,13,"['PUMA White-Astro Red', 'PUMA White-Myrtle']"
+587,194478_04,14,['Deep Orchid-Puma White']
+588,374862_10,7,"['Puma Black-High Rise', 'Marshmallow-Puma Black', 'Deep Forest-Puma Black']"
+589,393176_03,13,['Feather Gray-Cool Dark Gray-Warm White']
+590,194475_02,12,['Elektro Peach-Puma Black-Puma Silver']
+591,393161_01,12,['Ash Gray-Cast Iron']
+592,393647_01,13,['Warm White-Malachite']
+593,387327_07,12,"['PUMA White-Astro Red', 'PUMA White-Myrtle']"
+594,307780_01,12,['PUMA Black']
+595,390127_01,13,['PUMA White-PUMA Black']
+596,376615_01,16,['Puma Black-Puma White']
+597,388549_01,13,['Puma White-Puma Black']
+598,307576_02,11,['Granola-Green Lagoon']
+599,307913_01,11,['Sand Dune-PUMA Black-PUMA White']
+600,376922_01,15,['Sun Stream-Sunset Glow-Puma Black']
+601,106879_04,12,['Red Blast-Fast Yellow-PUMA Black']
+602,388557_02,12,['Puma White-Varsity Green-Tangerine-Nasturtium']
+603,194095_09,11,['Puma Black-Burnt Red']
+604,107521_01,13,"['PUMA White-PUMA Black-Fire Orchid', 'Ultra Blue-PUMA White-Pro Green']"
+605,394017_01,11,['PUMA White-Green Fog-Hot Heat-Yellow Sizzle']
+606,107522_01,13,"['PUMA White-PUMA Black-Fire Orchid', 'Ultra Blue-PUMA White-Pro Green']"
+607,388920_06,11,['Feather Gray-Royal Sapphire']
+608,307462_05,11,['Bold Blue-PUMA Black-PUMA White']
+609,307322_01,11,['Puma Black-Puma White-Blazing Yellow']
+610,390052_02,11,['Intense Lavender-PUMA Black']
+611,392725_07,11,['Warm White-Malachite']
+612,353572_04,17,"['white-black', 'black-white-puma silver', 'white-new navy', 'black-black']"
+613,353572_11,17,"['white-black', 'black-white-puma silver', 'white-new navy', 'black-black']"
+614,353572_12,20,"['white-black', 'black-white-puma silver', 'white-new navy', 'black-black']"
+615,307171_01,14,"['Puma Black-Puma White', 'Forest Night-Puma White', 'Ribbon Red-Puma White', 'Peacoat-Puma White', 'Puma Black-Puma Black']"
+616,307171_07,16,"['Puma Black-Puma White', 'Forest Night-Puma White', 'Ribbon Red-Puma White', 'Peacoat-Puma White', 'Puma Black-Puma Black']"
+617,307171_05,18,"['Puma Black-Puma White', 'Forest Night-Puma White', 'Ribbon Red-Puma White', 'Peacoat-Puma White', 'Puma Black-Puma Black']"
+618,353572_17,20,"['white-black', 'black-white-puma silver', 'white-new navy', 'black-black']"
+619,380205_03,17,"['Puma Black-Puma White-Amazon Green', 'Quarry-Puma White', 'High Risk Red-Puma White', 'Pumpkin Pie-PUMA White']"
+620,307171_04,18,"['Puma Black-Puma White', 'Forest Night-Puma White', 'Ribbon Red-Puma White', 'Peacoat-Puma White', 'Puma Black-Puma Black']"
+621,380205_01,14,"['Puma Black-Puma White-Amazon Green', 'Quarry-Puma White', 'High Risk Red-Puma White', 'Pumpkin Pie-PUMA White']"
+622,307171_06,16,"['Puma Black-Puma White', 'Forest Night-Puma White', 'Ribbon Red-Puma White', 'Peacoat-Puma White', 'Puma Black-Puma Black']"
+623,380205_02,17,"['Puma Black-Puma White-Amazon Green', 'Quarry-Puma White', 'High Risk Red-Puma White', 'Pumpkin Pie-PUMA White']"
+624,380205_16,11,"['Puma Black-Puma White-Amazon Green', 'Quarry-Puma White', 'High Risk Red-Puma White', 'Pumpkin Pie-PUMA White']"
+625,396057_01,19,['PUMA Black-Frosted Ivory']
+626,379098_01,18,['Sun Stream-Sunset Glow-PUMA Black']
+627,393199_01,13,['PUMA White-Archive Green']

@@ -1,0 +1,73 @@
+,index,URL,Exception,msg
+0,47,https://www.nike.com/t/blazer-low-platform-womens-shoes-X8Nl4M/DJ0292-101,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+1,75,https://www.nike.com/t/air-jordan-1-mid-se-womens-shoes-wkMdft/DV1302-100,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+2,86,https://www.nike.com/t/free-rn-2018-womens-running-shoes-zE8Je3/942837-001,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 1). Other element would receive the click: <div class=""pt1-lg"">...</div>
+  (Session info: chrome=120.0.6099.71)"
+3,86,https://www.nike.com/t/free-rn-2018-womens-running-shoes-zE8Je3/942837-001,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+0,100,https://www.nike.com/t/air-jordan-1-retro-high-og-womens-shoes-SsFGW3/FN6622-201,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+1,121,https://www.nike.com/t/ultrafly-womens-trail-running-shoes-tCnn3F/DZ0489-101,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+2,141,https://www.nike.com/t/blazer-low-77-jumbo-womens-shoes-PdFBP1/DQ1470-002,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+3,169,https://www.nike.com/t/nikecourt-air-zoom-pro-womens-hard-court-tennis-shoes-h9NGq9/DV3285-300,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+4,181,https://www.nike.com/t/waffle-one-womens-shoes-qk5cz3/DC2533-600,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 107). Other element would receive the click: <div class=""css-1jl2d6t-ModalInnerCell e1h9sv5s2"">...</div>
+  (Session info: chrome=120.0.6099.71)"
+5,181,https://www.nike.com/t/waffle-one-womens-shoes-qk5cz3/DC2533-600,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+0,208,https://www.nike.com/t/blazer-mid-77-vintage-womens-shoes-twCzCf/DV7006-200,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+1,219,https://www.nike.com/t/streakfly-mens-road-racing-shoes-8rTxtR/FN3435-148,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+2,227,https://www.nike.com/t/air-adjust-force-2023-womens-shoes-cHnLdK/DV7409-100,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+3,243,https://www.nike.com/t/ryz-365-2-womens-shoes-LkNlGp/CU4874-600,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+4,244,https://www.nike.com/t/chuck-taylor-all-star-lift-platform-canvas-womens-shoes-W0j30X/560251F-102,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 2). Other element would receive the click: <div class=""pt1-lg"">...</div>
+  (Session info: chrome=120.0.6099.71)"
+5,244,https://www.nike.com/t/chuck-taylor-all-star-lift-platform-canvas-womens-shoes-W0j30X/560251F-102,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+6,255,https://www.nike.com/t/rival-jump-track-field-jumping-spikes-QnT6b5/DR2756-400,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 576). Other element would receive the click: <div class=""css-1jl2d6t-ModalInnerCell e1h9sv5s2"">...</div>
+  (Session info: chrome=120.0.6099.71)"
+7,255,https://www.nike.com/t/rival-jump-track-field-jumping-spikes-QnT6b5/DR2756-400,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+0,346,https://www.nike.com/t/chuck-taylor-all-star-lift-platform-canvas-womens-shoes-5Qk67w/560250F-001,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 2). Other element would receive the click: <div class=""pt1-lg"">...</div>
+  (Session info: chrome=120.0.6099.71)"
+1,346,https://www.nike.com/t/chuck-taylor-all-star-lift-platform-canvas-womens-shoes-5Qk67w/560250F-001,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+2,356,https://www.nike.com/t/jumpman-mvp-womens-shoes-v92HlS/FB9019-700,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 8). Other element would receive the click: <ul class=""pre-desktop-menu"" role=""menubar"" data-pre=""DesktopMenu"">...</ul>
+  (Session info: chrome=120.0.6099.71)"
+3,356,https://www.nike.com/t/jumpman-mvp-womens-shoes-v92HlS/FB9019-700,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+4,383,https://www.nike.com/t/wmns-initiator-qqTA0Yrv/394053-101,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 45). Other element would receive the click: <ul class=""pre-desktop-menu"" role=""menubar"" data-pre=""DesktopMenu"">...</ul>
+  (Session info: chrome=120.0.6099.71)"
+5,384,https://www.nike.com/t/freak-4-birthstone-basketball-shoes-dsLlqf/DJ6149-400,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"" open="""">...</details> is not clickable at point (1115, 352). Other element would receive the click: <div class=""tt-l-grid__row tt-c-reviews-summary__grid-row"">...</div>
+  (Session info: chrome=120.0.6099.71)"
+6,384,https://www.nike.com/t/freak-4-birthstone-basketball-shoes-dsLlqf/DJ6149-400,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <button type=""button"" class=""ncss-cta-primary-dark btn-lg css-1nglku6"" data-test=""more-reviews"">...</button> is not clickable at point (979, 688). Other element would receive the click: <div class=""tt-l-grid__col tt-c-review__grid-col tt-l-grid__col--2 tt-c-review__grid-col--2"" style=""flex: 0 0 auto; width: 64%;"">...</div>
+  (Session info: chrome=120.0.6099.71)"
+7,388,https://www.nike.com/t/air-jordan-1-low-womens-shoes-Bz4GT4/DC0774-102,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 108). Other element would receive the click: <p>...</p>
+  (Session info: chrome=120.0.6099.71)"
+8,388,https://www.nike.com/t/air-jordan-1-low-womens-shoes-Bz4GT4/DC0774-102,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+0,413,https://www.nike.com/t/air-huarache-x-serena-williams-design-crew-shoes-m2Gnp8/DX4260-100,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 54). Other element would receive the click: <ul class=""pre-desktop-menu"" role=""menubar"" data-pre=""DesktopMenu"">...</ul>
+  (Session info: chrome=120.0.6099.71)"
+1,413,https://www.nike.com/t/air-huarache-x-serena-williams-design-crew-shoes-m2Gnp8/DX4260-100,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+2,437,https://www.nike.com/t/m2k-tekno-shoes-kkgRr9/BQ3378-100,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 3). Other element would receive the click: <ul class=""pre-desktop-menu"" role=""menubar"" data-pre=""DesktopMenu"">...</ul>
+  (Session info: chrome=120.0.6099.71)"
+3,437,https://www.nike.com/t/m2k-tekno-shoes-kkgRr9/BQ3378-100,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+4,438,https://www.nike.com/t/lebron-19-low-basketball-shoes-jDSdw6/DH1270-100,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+5,454,https://www.nike.com/t/air-jordan-1-low-og-womens-shoes-cdgt2t/CZ0775-001,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 3). Other element would receive the click: <ul class=""pre-desktop-menu"" role=""menubar"" data-pre=""DesktopMenu"">...</ul>
+  (Session info: chrome=120.0.6099.71)"
+6,454,https://www.nike.com/t/air-jordan-1-low-og-womens-shoes-cdgt2t/CZ0775-001,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+7,548,https://www.nike.com/t/air-max-270-womens-shoes-PCB5wl/DH3050-100,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 1). Other element would receive the click: <div class=""pt1-lg"">...</div>
+  (Session info: chrome=120.0.6099.71)"
+8,548,https://www.nike.com/t/air-max-270-womens-shoes-PCB5wl/DH3050-100,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"

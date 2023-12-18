@@ -1,0 +1,9 @@
+,index,URL,Exception,msg
+0,47,https://www.nike.com/t/blazer-low-platform-womens-shoes-X8Nl4M/DJ0292-101,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+1,75,https://www.nike.com/t/air-jordan-1-mid-se-womens-shoes-wkMdft/DV1302-100,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
+2,86,https://www.nike.com/t/free-rn-2018-womens-running-shoes-zE8Je3/942837-001,<class 'selenium.common.exceptions.ElementClickInterceptedException'>,"element click intercepted: Element <details data-nr-comp=""details"" data-nr-animatable=""false"" data-nr-animation=""false"" class="" css-1hbr3d8"" data-test=""reviewsAccordionClick"" name=""pdp-right-rail"">...</details> is not clickable at point (1115, 1). Other element would receive the click: <div class=""pt1-lg"">...</div>
+  (Session info: chrome=120.0.6099.71)"
+3,86,https://www.nike.com/t/free-rn-2018-womens-running-shoes-zE8Je3/942837-001,<class 'selenium.common.exceptions.ElementNotInteractableException'>,"element not interactable
+  (Session info: chrome=120.0.6099.71)"
